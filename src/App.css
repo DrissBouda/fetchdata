@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+}
+.App{
+  font-family: monospace;
+  color: black;
+  margin: 50px;
+}
+
+img{
+  width:250px
+}
